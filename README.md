@@ -1,0 +1,2 @@
+# CheckersGameDataModelConcept
+CS7330 Assignment03 Challenge: CheckersGameDataModelConcept
